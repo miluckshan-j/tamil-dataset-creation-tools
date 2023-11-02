@@ -1,0 +1,961 @@
+[
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - ஆந்தைகளின் மொழி",
+    "siruvarmalar_id": 1,
+    "tamilsurangam_story": "ஆந்தைகளின் மொழி",
+    "tamilsurangam_id": 2,
+    "ratio": 0.9984
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - சிறிய தவறும் பெரிய தண்டனையும்!",
+    "siruvarmalar_id": 2,
+    "tamilsurangam_story": "சிறிய தவறும் பெரிய தண்டனையும்!",
+    "tamilsurangam_id": 3,
+    "ratio": 0.9981745162468054
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - சத்தியமே வெல்லும்!",
+    "siruvarmalar_id": 3,
+    "tamilsurangam_story": "சத்தியமே வெல்லும்!",
+    "tamilsurangam_id": 4,
+    "ratio": 0.9971095571095571
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - முதல் வழக்கில் வெற்றி!",
+    "siruvarmalar_id": 4,
+    "tamilsurangam_story": "முதல் வழக்கில் வெற்றி!",
+    "tamilsurangam_id": 5,
+    "ratio": 0.9978474496958353
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - காவல்காரர்கள் பெற்ற பரிசு",
+    "siruvarmalar_id": 5,
+    "tamilsurangam_story": "காவல்காரர்கள் பெற்ற பரிசு",
+    "tamilsurangam_id": 11,
+    "ratio": 0.9989785495403473
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - கிணற்றுக்குள் வைர மோதிரம்",
+    "siruvarmalar_id": 6,
+    "tamilsurangam_story": "கிணற்றுக்குள் வைர மோதிரம்",
+    "tamilsurangam_id": 10,
+    "ratio": 0.9987281766678229
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - தண்டனைக்குத் தகுந்த குற்றம்",
+    "siruvarmalar_id": 7,
+    "tamilsurangam_story": "தண்டனைக்குத் தகுந்த குற்றம்",
+    "tamilsurangam_id": 9,
+    "ratio": 0.9998804542737597
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - வெயிலும், நிழலும்",
+    "siruvarmalar_id": 8,
+    "tamilsurangam_story": "வெயிலும், நிழலும்",
+    "tamilsurangam_id": 8,
+    "ratio": 0.9982432572078124
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - யாருக்கு மரண தண்டனை?",
+    "siruvarmalar_id": 9,
+    "tamilsurangam_story": "யாருக்கு மரண தண்டனை?",
+    "tamilsurangam_id": 7,
+    "ratio": 0.9980342600393148
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - சிறந்த ஆயுதம்",
+    "siruvarmalar_id": 10,
+    "tamilsurangam_story": "சிறந்த ஆயுதம்",
+    "tamilsurangam_id": 6,
+    "ratio": 0.9980827788429006
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - குழந்தையின் அழுகை",
+    "siruvarmalar_id": 11,
+    "tamilsurangam_story": "குழந்தையின் அழுகை",
+    "tamilsurangam_id": 12,
+    "ratio": 0.9986016430693935
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - மக்கள் நேர்மையானவர்களா?",
+    "siruvarmalar_id": 12,
+    "tamilsurangam_story": "மக்கள் நேர்மையானவர்களா?",
+    "tamilsurangam_id": 13,
+    "ratio": 0.9998313943685719
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - நெய் டப்பாவில் பொற்காசு",
+    "siruvarmalar_id": 13,
+    "tamilsurangam_story": "நெய் டப்பாவில் பொற்காசு",
+    "tamilsurangam_id": 14,
+    "ratio": 0.9994492381127226
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - கதைகள் காளை மாட்டின் பால்",
+    "siruvarmalar_id": 14,
+    "tamilsurangam_story": "காளை மாட்டின் பால்",
+    "tamilsurangam_id": 15,
+    "ratio": 0.9998020194020986
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - திருடனைக் கண்டுபிடிப்பது எப்படி?",
+    "siruvarmalar_id": 15,
+    "tamilsurangam_story": "திருடனைக் கண்டுபிடிப்பது எப்படி?",
+    "tamilsurangam_id": 16,
+    "ratio": 0.9992357077346378
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - அறிவுப் பானை",
+    "siruvarmalar_id": 16,
+    "tamilsurangam_story": "அறிவுப் பானை",
+    "tamilsurangam_id": 17,
+    "ratio": 0.9992337164750957
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - முத்திரை மோதிரத்தின் மகிமை",
+    "siruvarmalar_id": 17,
+    "tamilsurangam_story": "முத்திரை மோதிரத்தின் மகிமை",
+    "tamilsurangam_id": 18,
+    "ratio": 0.9986502901876096
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - முட்டாள்களின் கேள்விகள்",
+    "siruvarmalar_id": 18,
+    "tamilsurangam_story": "முட்டாள்களின் கேள்விகள்",
+    "tamilsurangam_id": 19,
+    "ratio": 0.9985520600236936
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - செப்புக் காசாக மாறிய தங்கக் காசுகள்",
+    "siruvarmalar_id": 19,
+    "tamilsurangam_story": "செப்புக் காசாக மாறிய தங்கக் காசுகள்",
+    "tamilsurangam_id": 20,
+    "ratio": 0.9986126526082131
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - கதைகள் பொற்காசுகளை திருடிய செல்வந்தர்",
+    "siruvarmalar_id": 20,
+    "tamilsurangam_story": "பொற்காசுகளை திருடிய செல்வந்தர்",
+    "tamilsurangam_id": 21,
+    "ratio": 1.0
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - விலைமதிப்புள்ள பொருள்",
+    "siruvarmalar_id": 21,
+    "tamilsurangam_story": "விலைமதிப்புள்ள பொருள்",
+    "tamilsurangam_id": 22,
+    "ratio": 0.9996525123358121
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - காயத்ரி மந்திரம்",
+    "siruvarmalar_id": 22,
+    "tamilsurangam_story": "காயத்ரி மந்திரம்",
+    "tamilsurangam_id": 23,
+    "ratio": 1.0
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - குளிரில் நின்றால் பரிசு",
+    "siruvarmalar_id": 23,
+    "tamilsurangam_story": "குளிரில் நின்றால் பரிசு",
+    "tamilsurangam_id": 24,
+    "ratio": 0.9977372871263547
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - பீர்பாலின் புத்திசாலித்தனம்",
+    "siruvarmalar_id": 24,
+    "tamilsurangam_story": "பீர்பாலின் புத்திசாலித்தனம்",
+    "tamilsurangam_id": 25,
+    "ratio": 1.0
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - புகையிலை",
+    "siruvarmalar_id": 25,
+    "tamilsurangam_story": "புகையிலை",
+    "tamilsurangam_id": 27,
+    "ratio": 0.997275204359673
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - அக்பருக்கும் பீர்பாலுக்குமமடிக்கடி ஏற்படும் மனவேறு",
+    "siruvarmalar_id": 26,
+    "tamilsurangam_story": "அக்பருக்கும் பீர்பாலுக்கும் அடிக்கடி ஏற்படும் மனவேறு",
+    "tamilsurangam_id": 28,
+    "ratio": 0.9986361813076614
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - சத்திரம்",
+    "siruvarmalar_id": 27,
+    "tamilsurangam_story": "சத்திரம்",
+    "tamilsurangam_id": 29,
+    "ratio": 1.0
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - கடவுளும் தூதுவர்களும்",
+    "siruvarmalar_id": 28,
+    "tamilsurangam_story": "கடவுளும் தூதுவர்களும்",
+    "tamilsurangam_id": 30,
+    "ratio": 0.995850622406639
+  },
+  {
+    "siruvarmalar_story": "அக்பர் பீர்பால் கதைகள் - அபசகுனம்",
+    "siruvarmalar_id": 29,
+    "tamilsurangam_story": "அபசகுனம்",
+    "tamilsurangam_id": 31,
+    "ratio": 1.0
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - இராஜாங்க விருந்து",
+    "siruvarmalar_id": 31,
+    "tamilsurangam_story": "இராஜாங்க விருந்து",
+    "tamilsurangam_id": 18,
+    "ratio": 0.9121693121693122
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - அரசியின் கொட்டாவி",
+    "siruvarmalar_id": 32,
+    "tamilsurangam_story": "அரசியின் கொட்டாவி",
+    "tamilsurangam_id": 17,
+    "ratio": 0.9592628516003879
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - பிறந்த நாள் பரிசு",
+    "siruvarmalar_id": 33,
+    "tamilsurangam_story": "பிறந்த நாள் பரிசு",
+    "tamilsurangam_id": 16,
+    "ratio": 0.9113318616629875
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - புலவரை வென்ற தெனாலிராமன்",
+    "siruvarmalar_id": 34,
+    "tamilsurangam_story": "புலவரை வென்ற தெனாலிராமன்",
+    "tamilsurangam_id": 15,
+    "ratio": 0.8656615280365916
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - நீர் இறைத்த திருடர்கள்",
+    "siruvarmalar_id": 35,
+    "tamilsurangam_story": "நீர் இறைத்த திருடர்கள்",
+    "tamilsurangam_id": 14,
+    "ratio": 0.8932439401753481
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - அதிசயக்குதிரை",
+    "siruvarmalar_id": 36,
+    "tamilsurangam_story": "அதிசயக்குதிரை",
+    "tamilsurangam_id": 13,
+    "ratio": 0.9594515181194907
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - வைத்திய செலவு",
+    "siruvarmalar_id": 37,
+    "tamilsurangam_story": "வைத்திய செலவு",
+    "tamilsurangam_id": 12,
+    "ratio": 0.9248281786941581
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - வைத்திய செலவு",
+    "siruvarmalar_id": 37,
+    "tamilsurangam_story": "தெனாலிராமன் விற்ற குதிரை",
+    "tamilsurangam_id": 20,
+    "ratio": 0.942299349240781
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - சூடு பட்ட புரோகிதர்கள்",
+    "siruvarmalar_id": 38,
+    "tamilsurangam_story": "சூடு பட்ட புரோகிதர்கள்",
+    "tamilsurangam_id": 11,
+    "ratio": 0.9067783929373036
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - சோதிடனைக் கொன்ற கதை",
+    "siruvarmalar_id": 39,
+    "tamilsurangam_story": "சோதிடனைக் கொன்ற கதை",
+    "tamilsurangam_id": 10,
+    "ratio": 0.948442723913426
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - கிடைத்ததில் சம பங்கு",
+    "siruvarmalar_id": 40,
+    "tamilsurangam_story": "கிருஷ்ண லீலை",
+    "tamilsurangam_id": 29,
+    "ratio": 0.5551301684532925
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - டில்லி அரசரை வென்ற கதை",
+    "siruvarmalar_id": 41,
+    "tamilsurangam_story": "டில்லி அரசரை வென்ற கதை",
+    "tamilsurangam_id": 8,
+    "ratio": 0.9496327387198321
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - கூனனை ஏமாற்றிய கதை",
+    "siruvarmalar_id": 42,
+    "tamilsurangam_story": "கூனனை ஏமாற்றிய கதை",
+    "tamilsurangam_id": 6,
+    "ratio": 0.7608808739379227
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - ராஜகுருவை பழிக்குப் பழி வாங்குதல்",
+    "siruvarmalar_id": 43,
+    "tamilsurangam_story": "ராஜகுருவை பழிக்குப் பழி வாங்குதல்",
+    "tamilsurangam_id": 5,
+    "ratio": 0.8835489833641405
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - நஷ்டத்தை லாபமாக்கிய குதிரை",
+    "siruvarmalar_id": 44,
+    "tamilsurangam_story": "நஷ்டத்தை லாபமாக்கிய குதிரை",
+    "tamilsurangam_id": 4,
+    "ratio": 0.9342575089266961
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - வித்தைக்காரனை வென்ற கதை",
+    "siruvarmalar_id": 45,
+    "tamilsurangam_story": "வித்தைக்காரனை வென்ற கதை",
+    "tamilsurangam_id": 3,
+    "ratio": 0.9587340986658393
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - ராஜகுருவின் நட்பு",
+    "siruvarmalar_id": 46,
+    "tamilsurangam_story": "ராஜகுருவின் நட்பு",
+    "tamilsurangam_id": 2,
+    "ratio": 0.9334301621883321
+  },
+  {
+    "siruvarmalar_story": "தெனாலி ராமன் கதைகள் - காளியிடம் வரம் பெற்ற கதை",
+    "siruvarmalar_id": 47,
+    "tamilsurangam_story": "காளியிடம் வரம் பெற்ற கதை",
+    "tamilsurangam_id": 1,
+    "ratio": 0.9588807370755844
+  },
+  {
+    "siruvarmalar_story": "மரியாதை இராமன் கதைகள் - நீயா கொலைகாரி?",
+    "siruvarmalar_id": 49,
+    "tamilsurangam_story": "நீயா கொலைகாரி?",
+    "tamilsurangam_id": 15,
+    "ratio": 0.9960266216350452
+  },
+  {
+    "siruvarmalar_story": "மரியாதை இராமன் கதைகள் - நேர்மை கொண்ட உள்ளம்",
+    "siruvarmalar_id": 50,
+    "tamilsurangam_story": "நேர்மை கொண்ட உள்ளம்",
+    "tamilsurangam_id": 17,
+    "ratio": 0.9731739174118357
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - கீழே விழுந்த சட்டை",
+    "siruvarmalar_id": 54,
+    "tamilsurangam_story": "கீழே விழுந்த சட்டை",
+    "tamilsurangam_id": 18,
+    "ratio": 0.9898516783762685
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - கல்விமானுக்கு எழுந்த சந்தேகம்",
+    "siruvarmalar_id": 55,
+    "tamilsurangam_story": "கல்விமானுக்கு எழுந்த சந்தேகம்",
+    "tamilsurangam_id": 17,
+    "ratio": 0.9868995633187773
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - புதுப்பானை",
+    "siruvarmalar_id": 56,
+    "tamilsurangam_story": "புதுப்பானை",
+    "tamilsurangam_id": 16,
+    "ratio": 0.9733802109492717
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - பதிலுக்குப் பதில்",
+    "siruvarmalar_id": 57,
+    "tamilsurangam_story": "பதிலுக்குப் பதில்",
+    "tamilsurangam_id": 15,
+    "ratio": 0.990183525394793
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - சூரியனா-சந்திரனா",
+    "siruvarmalar_id": 58,
+    "tamilsurangam_story": "சூரியனா-சந்திரனா",
+    "tamilsurangam_id": 13,
+    "ratio": 0.988110964332893
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - கழுதையால் கிடைத்த பாடம்",
+    "siruvarmalar_id": 59,
+    "tamilsurangam_story": "கழுதையால் கிடைத்த பாடம்",
+    "tamilsurangam_id": 12,
+    "ratio": 0.9794168096054888
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - முல்லா அணைத்த நெருப்பு",
+    "siruvarmalar_id": 60,
+    "tamilsurangam_story": "முல்லா அணைத்த நெருப்பு",
+    "tamilsurangam_id": 11,
+    "ratio": 0.9778493757551349
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - மீன் பிடித்த முல்லா",
+    "siruvarmalar_id": 61,
+    "tamilsurangam_story": "மீன் பிடித்த முல்லா",
+    "tamilsurangam_id": 9,
+    "ratio": 0.9751958224543081
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - சொன்ன சொல் மாறதவர்",
+    "siruvarmalar_id": 62,
+    "tamilsurangam_story": "சொன்ன சொல் மாறhதவர்",
+    "tamilsurangam_id": 8,
+    "ratio": 0.8922610015174507
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - குட்டி போட்ட பாத்திரம்",
+    "siruvarmalar_id": 63,
+    "tamilsurangam_story": "குட்டி போட்ட பாத்திரம்",
+    "tamilsurangam_id": 7,
+    "ratio": 0.9763378230797234
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - வேதாந்த நூல்",
+    "siruvarmalar_id": 64,
+    "tamilsurangam_story": "வேதாந்த நூல்",
+    "tamilsurangam_id": 6,
+    "ratio": 0.9810690423162584
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - முல்லாவின் திருமண ஆசை",
+    "siruvarmalar_id": 65,
+    "tamilsurangam_story": "முல்லாவின் திருமண ஆசை",
+    "tamilsurangam_id": 5,
+    "ratio": 0.9826784959864808
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - யானைக்கு வந்த திருமண ஆசை",
+    "siruvarmalar_id": 66,
+    "tamilsurangam_story": "யானைக்கு வந்த திருமண ஆசை",
+    "tamilsurangam_id": 4,
+    "ratio": 0.9782347900599828
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - எதிர்கால வாழ்க்கை",
+    "siruvarmalar_id": 67,
+    "tamilsurangam_story": "எதிர்கால வாழ்க்கை",
+    "tamilsurangam_id": 30,
+    "ratio": 0.9814925373134329
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - பாவத்தின் பலன்",
+    "siruvarmalar_id": 68,
+    "tamilsurangam_story": "பாவத்தின் பலன்",
+    "tamilsurangam_id": 31,
+    "ratio": 0.984081041968162
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - முல்லா வசூலிக்கும் கடன்",
+    "siruvarmalar_id": 69,
+    "tamilsurangam_story": "முல்லா வசூலிக்கும் கடன்",
+    "tamilsurangam_id": 32,
+    "ratio": 0.9654699291104505
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - சந்தேகப்பிராணி",
+    "siruvarmalar_id": 70,
+    "tamilsurangam_story": "சந்தேகப்பிராணி",
+    "tamilsurangam_id": 33,
+    "ratio": 0.976696542893726
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - நாத்திகன் பட்ட அவஸ்த்தை",
+    "siruvarmalar_id": 71,
+    "tamilsurangam_story": "நாத்திகன் பட்ட அவஸ்த்தை",
+    "tamilsurangam_id": 34,
+    "ratio": 0.9351732991014121
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - முல்லா கற்ற இசை",
+    "siruvarmalar_id": 72,
+    "tamilsurangam_story": "முல்லா கற்ற இசை",
+    "tamilsurangam_id": 35,
+    "ratio": 0.8944676894467689
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - முல்லாவின் உயில்",
+    "siruvarmalar_id": 73,
+    "tamilsurangam_story": "முல்லாவின் உயில்",
+    "tamilsurangam_id": 36,
+    "ratio": 0.9766081871345029
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - மகிழ்ச்சியின் எல்லை",
+    "siruvarmalar_id": 74,
+    "tamilsurangam_story": "மகிழ்ச்சியின் எல்லை",
+    "tamilsurangam_id": 37,
+    "ratio": 0.9709433962264151
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - பிரார்த்தனை",
+    "siruvarmalar_id": 75,
+    "tamilsurangam_story": "பிரார்த்தனை",
+    "tamilsurangam_id": 38,
+    "ratio": 0.6349048800661704
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - எல்லோரும் சோம்பேறிகள்!",
+    "siruvarmalar_id": 76,
+    "tamilsurangam_story": "எல்லோரும் சோம்பேறிகள்!",
+    "tamilsurangam_id": 39,
+    "ratio": 0.9731638418079096
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - முல்லாவின் புத்திசாலித்தனம்!",
+    "siruvarmalar_id": 77,
+    "tamilsurangam_story": "முல்லாவின் புத்திசாலித்தனம்!",
+    "tamilsurangam_id": 40,
+    "ratio": 0.9613755295290306
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - உலகத்தில் சிறந்தது",
+    "siruvarmalar_id": 78,
+    "tamilsurangam_story": "உலகத்தில் சிறந்தது",
+    "tamilsurangam_id": 45,
+    "ratio": 0.969244550612123
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - வெற்றியின் ரகசியம்",
+    "siruvarmalar_id": 79,
+    "tamilsurangam_story": "வெற்றியின் ரகசியம்",
+    "tamilsurangam_id": 46,
+    "ratio": 0.9553185356010377
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - தளபதியின் சமரசம்!",
+    "siruvarmalar_id": 80,
+    "tamilsurangam_story": "தளபதியின் சமரசம்!",
+    "tamilsurangam_id": 47,
+    "ratio": 0.9583211891576799
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - உண்மை என்பது என்ன?",
+    "siruvarmalar_id": 81,
+    "tamilsurangam_story": "உண்மை என்பது என்ன?",
+    "tamilsurangam_id": 48,
+    "ratio": 0.8863387978142077
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - செயற்கரிய சாதனை",
+    "siruvarmalar_id": 82,
+    "tamilsurangam_story": "வானத்தில் பறந்த தங்கப் பறவை!",
+    "tamilsurangam_id": 49,
+    "ratio": 0.8810872027180068
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - முல்லாவின் உடைவாள்!",
+    "siruvarmalar_id": 83,
+    "tamilsurangam_story": "முல்லாவின் உடைவாள்!",
+    "tamilsurangam_id": 51,
+    "ratio": 0.9367922043718725
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - ஒரு நல்ல செய்தி!",
+    "siruvarmalar_id": 84,
+    "tamilsurangam_story": "ஒரு நல்ல செய்தி!",
+    "tamilsurangam_id": 53,
+    "ratio": 0.9696345856922285
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - இருட்டிலும் ஒலி கேட்கும்",
+    "siruvarmalar_id": 85,
+    "tamilsurangam_story": "இருட்டிலும் ஒலி கேட்கும்",
+    "tamilsurangam_id": 54,
+    "ratio": 0.9342403628117913
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - மன்னின் மதிப்பு",
+    "siruvarmalar_id": 86,
+    "tamilsurangam_story": "மன்னின் மதிப்பு",
+    "tamilsurangam_id": 52,
+    "ratio": 0.9584097859327217
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - பிரார்த்தனையும் மனிதனும்!",
+    "siruvarmalar_id": 87,
+    "tamilsurangam_story": "பிரார்த்தனையும் மனிதனும்!",
+    "tamilsurangam_id": 55,
+    "ratio": 0.8936376881981545
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - பக்கத்து வீட்டுக்காரியின் மோப்பம்",
+    "siruvarmalar_id": 88,
+    "tamilsurangam_story": "பக்கத்து வீட்டுக்காரியின் மோப்பம்",
+    "tamilsurangam_id": 1,
+    "ratio": 0.9571819010021257
+  },
+  {
+    "siruvarmalar_story": "முல்லாவின் கதைகள் - தளபதியின் சமரசம்",
+    "siruvarmalar_id": 90,
+    "tamilsurangam_story": "தளபதியின் சமரசம்!",
+    "tamilsurangam_id": 47,
+    "ratio": 0.9586631486367634
+  },
+  {
+    "siruvarmalar_story": "நீதிக் கதைகள் - உப்பு வியாபாரியும் கழுதையின் தந்திரமும்",
+    "siruvarmalar_id": 108,
+    "tamilsurangam_story": "உப்பு வியாபாரியும் கழுதையின் தந்திரமும்",
+    "tamilsurangam_id": 3,
+    "ratio": 0.9451897278650824
+  },
+  {
+    "siruvarmalar_story": "ஈசாப் நீதிக் கதைகள் - கெட்டிக்காரன் புளுகு",
+    "siruvarmalar_id": 122,
+    "tamilsurangam_story": "கெட்டிக்காரன் புளுகு",
+    "tamilsurangam_id": 2,
+    "ratio": 1.0
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - கிருஷ்ணா! புடவை கொடு!",
+    "siruvarmalar_id": 146,
+    "tamilsurangam_story": "கிருஷ்ணா! புடவை கொடு!",
+    "tamilsurangam_id": 19,
+    "ratio": 0.904566022213081
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - கால் முளைத்த மீன்கள்",
+    "siruvarmalar_id": 147,
+    "tamilsurangam_story": "கால் முளைத்த மீன்கள்",
+    "tamilsurangam_id": 3,
+    "ratio": 0.9337943398642592
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - உதைக்கிற கழுதையே உழைக்கும்",
+    "siruvarmalar_id": 148,
+    "tamilsurangam_story": "உதைக்கிற கழுதையே உழைக்கும்",
+    "tamilsurangam_id": 5,
+    "ratio": 0.9951414689911403
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - உதைக்கிற கழுதையே உழைக்கும்",
+    "siruvarmalar_id": 148,
+    "tamilsurangam_story": "புத்தியில்லாதவர்களின் வேலை",
+    "tamilsurangam_id": 27,
+    "ratio": 0.5163305879011645
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - உதைக்கிற கழுதையே உழைக்கும்",
+    "siruvarmalar_id": 148,
+    "tamilsurangam_story": "துணி துவைத்த சீடர்கள்",
+    "tamilsurangam_id": 28,
+    "ratio": 0.9949935631526248
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - வாழ்க இராமர் வாழ்க சீதை",
+    "siruvarmalar_id": 149,
+    "tamilsurangam_story": "வாழ்க இராமர் - வாழ்க சீதை",
+    "tamilsurangam_id": 7,
+    "ratio": 0.9844858689116055
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - தண்டச் சோற்றுத் தடிராமன்கள்",
+    "siruvarmalar_id": 150,
+    "tamilsurangam_story": "தண்டச் சோற்றுத் தடிராமன்கள்",
+    "tamilsurangam_id": 9,
+    "ratio": 0.9131672597864768
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - பூதம் காத்த புதையல்",
+    "siruvarmalar_id": 151,
+    "tamilsurangam_story": "பூதம் காத்த புதையல்",
+    "tamilsurangam_id": 11,
+    "ratio": 0.9282261063592413
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - தொப்பை கரைச்சான் லேகியம்!",
+    "siruvarmalar_id": 152,
+    "tamilsurangam_story": "தொப்பை கரைச்சான் லேகியம்!",
+    "tamilsurangam_id": 13,
+    "ratio": 0.9614888123924269
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - நொண்டிக் குதிரை",
+    "siruvarmalar_id": 153,
+    "tamilsurangam_story": "நொண்டிக் குதிரை",
+    "tamilsurangam_id": 22,
+    "ratio": 0.9955019423430791
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - குரங்கு விடு தூது!",
+    "siruvarmalar_id": 154,
+    "tamilsurangam_story": "குரங்கு விடு தூது!",
+    "tamilsurangam_id": 20,
+    "ratio": 0.9827155125557125
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - உப்புக்கு வந்த சோதனை, அதிசயித்த குரு",
+    "siruvarmalar_id": 155,
+    "tamilsurangam_story": "உப்புக்கு வந்த சோதனை, அதிசயித்த குரு",
+    "tamilsurangam_id": 21,
+    "ratio": 0.9985326485693323
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - புத்தியில்லாதவர்களின் வேலை",
+    "siruvarmalar_id": 156,
+    "tamilsurangam_story": "புத்தியில்லாதவர்களின் வேலை",
+    "tamilsurangam_id": 27,
+    "ratio": 1.0
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - தாடி சிறுத்தாலும் தொப்பை குறையாது",
+    "siruvarmalar_id": 157,
+    "tamilsurangam_story": "தாடி சிறுத்தாலும் தொப்பை குறையாது",
+    "tamilsurangam_id": 14,
+    "ratio": 0.5797516714422158
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - தவளைக் குட்டிச் சீடன்",
+    "siruvarmalar_id": 158,
+    "tamilsurangam_story": "தவளைக் குட்டிச் சீடன்",
+    "tamilsurangam_id": 15,
+    "ratio": 0.9994254524561907
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - ஓலைச் சுவடி பத்திரிகை",
+    "siruvarmalar_id": 159,
+    "tamilsurangam_story": "தொப்பை வளர்ப்பது எப்படி?",
+    "tamilsurangam_id": 16,
+    "ratio": 0.9419972640218878
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - ஓலைச் சுவடி பத்திரிகை",
+    "siruvarmalar_id": 159,
+    "tamilsurangam_story": "ஓலைச் சுவடி பத்திரிகை",
+    "tamilsurangam_id": 23,
+    "ratio": 0.9997264021887825
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - சொர்க்கம் என்ற சோற்று மூட்டை",
+    "siruvarmalar_id": 160,
+    "tamilsurangam_story": "சொர்க்கம் என்ற சோற்று மூட்டை",
+    "tamilsurangam_id": 17,
+    "ratio": 0.9244851258581236
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - நரபலி சாமியார்",
+    "siruvarmalar_id": 161,
+    "tamilsurangam_story": "நரபலி சாமியார் நாகப்பா",
+    "tamilsurangam_id": 18,
+    "ratio": 0.9627749576988156
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - காணாமல் போனது யார்?",
+    "siruvarmalar_id": 162,
+    "tamilsurangam_story": "காணாமல் போனது யார்?",
+    "tamilsurangam_id": 24,
+    "ratio": 0.9998163789937569
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - மருத்துவத் தொழில்",
+    "siruvarmalar_id": 163,
+    "tamilsurangam_story": "மருத்துவத் தொழில்",
+    "tamilsurangam_id": 25,
+    "ratio": 1.0
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - நரகலோகத்தில் பரமார்த்தர்",
+    "siruvarmalar_id": 164,
+    "tamilsurangam_story": "நரகத்தில் பரமார்த்தர்",
+    "tamilsurangam_id": 2,
+    "ratio": 0.983540993693278
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - வெள்ளை யானை பறக்கிறது",
+    "siruvarmalar_id": 165,
+    "tamilsurangam_story": "வெள்ளை யானை பறக்கிறது",
+    "tamilsurangam_id": 4,
+    "ratio": 0.9947728186570165
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - தோட்டத்தில் மேயுது",
+    "siruvarmalar_id": 166,
+    "tamilsurangam_story": "தோட்டத்தில் மேயுது ...",
+    "tamilsurangam_id": 6,
+    "ratio": 0.9883964770026562
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - பரமார்த்தரின் பக்தி",
+    "siruvarmalar_id": 167,
+    "tamilsurangam_story": "பரமார்த்தரின் பக்தி",
+    "tamilsurangam_id": 8,
+    "ratio": 0.9681005316578057
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - பூவரசம் மரமே புத்திகொடு",
+    "siruvarmalar_id": 168,
+    "tamilsurangam_story": "பூவரசம் மரமே புத்திகொடு",
+    "tamilsurangam_id": 10,
+    "ratio": 0.9681159420289855
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - மாடு பிடிப்போம், நாடு ஆள்வோம்",
+    "siruvarmalar_id": 169,
+    "tamilsurangam_story": "மாடு பிடிப்போம் - நாடு ஆள்வோம்!",
+    "tamilsurangam_id": 12,
+    "ratio": 0.9851811790156841
+  },
+  {
+    "siruvarmalar_story": "பரமார்த்த குரு கதைகள் - அன்புள்ள ஆவியே",
+    "siruvarmalar_id": 170,
+    "tamilsurangam_story": "அன்புள்ள ஆவியே",
+    "tamilsurangam_id": 26,
+    "ratio": 0.9956986263355071
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - மலைப்பாம்பும் மான் குட்டியும்",
+    "siruvarmalar_id": 173,
+    "tamilsurangam_story": "மலைப்பாம்பும் மான் குட்டியும்",
+    "tamilsurangam_id": 29,
+    "ratio": 0.9649155374048636
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - பெரிய சோம்பேறி யார் ?",
+    "siruvarmalar_id": 174,
+    "tamilsurangam_story": "பெரிய சோம்பேறி யார் ?",
+    "tamilsurangam_id": 13,
+    "ratio": 0.9982552864819597
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - திறமையான குள்ளன்",
+    "siruvarmalar_id": 175,
+    "tamilsurangam_story": "திறமையான குள்ளன்",
+    "tamilsurangam_id": 6,
+    "ratio": 0.9514239218877136
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - எள்ளு போச்சு! எண்ணெய் வந்தது!",
+    "siruvarmalar_id": 176,
+    "tamilsurangam_story": "எள்ளு போச்சு! எண்ணெய் வந்தது!",
+    "tamilsurangam_id": 10,
+    "ratio": 0.9336013207953485
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - குருவி கொடுத்த விதை",
+    "siruvarmalar_id": 177,
+    "tamilsurangam_story": "குருவி கொடுத்த விதை",
+    "tamilsurangam_id": 12,
+    "ratio": 0.9922196796338673
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - பாடாதே! செத்தேன்!",
+    "siruvarmalar_id": 178,
+    "tamilsurangam_story": "பாடாதே! செத்தேன்!",
+    "tamilsurangam_id": 15,
+    "ratio": 0.9982514935159551
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - ஒருவர் மட்டும் போதாது",
+    "siruvarmalar_id": 179,
+    "tamilsurangam_story": "ஒருவர் மட்டும் போதாது",
+    "tamilsurangam_id": 8,
+    "ratio": 0.9981402057160208
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - விலங்குகள் பேசுவது புரிந்தால்",
+    "siruvarmalar_id": 181,
+    "tamilsurangam_story": "விலங்குகள் பேசுவது புரிந்தால்",
+    "tamilsurangam_id": 7,
+    "ratio": 0.9892565535023635
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - ஒரே அடியில் இருநூறு பேர்",
+    "siruvarmalar_id": 182,
+    "tamilsurangam_story": "ஒரே அடியில் இருநூறு பேர்",
+    "tamilsurangam_id": 9,
+    "ratio": 0.9984950219958324
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - இரண்டு புலிக்கு எங்கே போவேன்?",
+    "siruvarmalar_id": 183,
+    "tamilsurangam_story": "இரண்டு புலிக்கு எங்கே போவேன்?",
+    "tamilsurangam_id": 11,
+    "ratio": 0.9974032105760151
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - மொச்சைக்குத் தையல்",
+    "siruvarmalar_id": 184,
+    "tamilsurangam_story": "மொச்சைக்குத் தையல்",
+    "tamilsurangam_id": 14,
+    "ratio": 0.9884750292299983
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - பெரியதை எடு!",
+    "siruvarmalar_id": 185,
+    "tamilsurangam_story": "பெரியதை எடு!",
+    "tamilsurangam_id": 16,
+    "ratio": 0.9800130633572828
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - மூட்டையை வைத்தால்",
+    "siruvarmalar_id": 186,
+    "tamilsurangam_story": "மூட்டையை வைத்தால்...",
+    "tamilsurangam_id": 18,
+    "ratio": 0.9986111695635705
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - ஆசை",
+    "siruvarmalar_id": 187,
+    "tamilsurangam_story": "ஆசை",
+    "tamilsurangam_id": 22,
+    "ratio": 0.9833438751844824
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - சாகாத வரம்",
+    "siruvarmalar_id": 188,
+    "tamilsurangam_story": "சாகாத வரம்",
+    "tamilsurangam_id": 24,
+    "ratio": 0.9456817817657427
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - பத்தாவது பாஸ்",
+    "siruvarmalar_id": 189,
+    "tamilsurangam_story": "பத்தாவது பாஸ்",
+    "tamilsurangam_id": 26,
+    "ratio": 0.9756446991404012
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - யானை பல் விளக்குமா?",
+    "siruvarmalar_id": 190,
+    "tamilsurangam_story": "யானை பல் விளக்குமா?",
+    "tamilsurangam_id": 30,
+    "ratio": 0.9314612968778866
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - மந்திரியான காக்கை அண்ணாச்சி",
+    "siruvarmalar_id": 191,
+    "tamilsurangam_story": "மந்திரியான காக்கை அண்ணாச்சி",
+    "tamilsurangam_id": 28,
+    "ratio": 0.9893909626719057
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - யானை பல் விளக்குமா?",
+    "siruvarmalar_id": 192,
+    "tamilsurangam_story": "யானை பல் விளக்குமா?",
+    "tamilsurangam_id": 30,
+    "ratio": 0.9792088316467341
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - தேவதை",
+    "siruvarmalar_id": 193,
+    "tamilsurangam_story": "தேவதை",
+    "tamilsurangam_id": 4,
+    "ratio": 0.990651475314052
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - குறையா நிறையா?",
+    "siruvarmalar_id": 206,
+    "tamilsurangam_story": "உடைந்த பானை",
+    "tamilsurangam_id": 37,
+    "ratio": 0.5984354628422425
+  },
+  {
+    "siruvarmalar_story": "சிறுவர் கதைகள் - பூதம் காத்த புதையல்",
+    "siruvarmalar_id": 264,
+    "tamilsurangam_story": "பூதம் காத்த புதையல்",
+    "tamilsurangam_id": 11,
+    "ratio": 0.9280973451327433
+  }
+]
