@@ -33,11 +33,11 @@ def runner():
         path = os.getcwd()
         siruvarmalar_contents = load_json(path + "/siruvarmalar-input.json")
         similarities_contents = load_json(path + "/similarities.json")
-        output = siruvarmalar_contents
+        # output = siruvarmalar_contents
         for index, siruvarmalar_story in enumerate(siruvarmalar_contents):
             if (is_in_list('siruvarmalar_id', siruvarmalar_story["story_id"], similarities_contents)):
                 siruvarmalar_contents.remove(siruvarmalar_story)
-        save_as_json(path + "/siruvarmalar.json", output)
+        save_as_json(path + "/siruvarmalar.json", siruvarmalar_contents)
     except Exception:
         dump_error()
 
