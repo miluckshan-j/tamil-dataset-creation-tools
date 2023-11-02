@@ -1,0 +1,18 @@
+[
+  {
+    "file": "oshos_stories.json",
+    "tamilsurangam_story": "இருப்பின் புனிதம்",
+    "tamilsurangam_story_id": 1,
+    "tamilsurangam_checking_story": "இருப்பின் புனிதம்",
+    "tamilsurangam_checking_story_id": 8,
+    "ratio": 0.9998795035546452
+  },
+  {
+    "file": "oshos_stories.json",
+    "tamilsurangam_story": "இருப்பின் புனிதம்",
+    "tamilsurangam_story_id": 8,
+    "tamilsurangam_checking_story": "இருப்பின் புனிதம்",
+    "tamilsurangam_checking_story_id": 1,
+    "ratio": 0.9998795035546452
+  }
+]

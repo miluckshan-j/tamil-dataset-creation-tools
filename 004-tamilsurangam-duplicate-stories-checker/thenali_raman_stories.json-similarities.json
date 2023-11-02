@@ -1,0 +1,50 @@
+[
+  {
+    "file": "thenali_raman_stories.json",
+    "tamilsurangam_story": "ராஜகுருவின் நட்பு",
+    "tamilsurangam_story_id": 2,
+    "tamilsurangam_checking_story": "அரசவை விகடகவியாக்குதல்",
+    "tamilsurangam_checking_story_id": 30,
+    "ratio": 0.501460823373174
+  },
+  {
+    "file": "thenali_raman_stories.json",
+    "tamilsurangam_story": "கிடைத்ததில் சம பங்கு",
+    "tamilsurangam_story_id": 9,
+    "tamilsurangam_checking_story": "கிருஷ்ண லீலை",
+    "tamilsurangam_checking_story_id": 29,
+    "ratio": 0.6260271354863367
+  },
+  {
+    "file": "thenali_raman_stories.json",
+    "tamilsurangam_story": "வைத்திய செலவு",
+    "tamilsurangam_story_id": 12,
+    "tamilsurangam_checking_story": "தெனாலிராமன் விற்ற குதிரை",
+    "tamilsurangam_checking_story_id": 20,
+    "ratio": 0.9287257019438445
+  },
+  {
+    "file": "thenali_raman_stories.json",
+    "tamilsurangam_story": "தெனாலிராமன் விற்ற குதிரை",
+    "tamilsurangam_story_id": 20,
+    "tamilsurangam_checking_story": "வைத்திய செலவு",
+    "tamilsurangam_checking_story_id": 12,
+    "ratio": 0.9287257019438445
+  },
+  {
+    "file": "thenali_raman_stories.json",
+    "tamilsurangam_story": "மறுபிறவி",
+    "tamilsurangam_story_id": 28,
+    "tamilsurangam_checking_story": "ராஜகுருவை பழிக்குப் பழி வாங்குதல்",
+    "tamilsurangam_checking_story_id": 5,
+    "ratio": 0.5374073241968097
+  },
+  {
+    "file": "thenali_raman_stories.json",
+    "tamilsurangam_story": "கிருஷ்ண லீலை",
+    "tamilsurangam_story_id": 29,
+    "tamilsurangam_checking_story": "கிடைத்ததில் சம பங்கு",
+    "tamilsurangam_checking_story_id": 9,
+    "ratio": 0.7617045671698834
+  }
+]

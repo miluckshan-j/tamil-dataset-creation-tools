@@ -1,0 +1,50 @@
+[
+  {
+    "file": "brahmartha_guru_stories.json",
+    "tamilsurangam_story": "உதைக்கிற கழுதையே உழைக்கும்",
+    "tamilsurangam_story_id": 5,
+    "tamilsurangam_checking_story": "புத்தியில்லாதவர்களின் வேலை",
+    "tamilsurangam_checking_story_id": 27,
+    "ratio": 0.521652986130767
+  },
+  {
+    "file": "brahmartha_guru_stories.json",
+    "tamilsurangam_story": "உதைக்கிற கழுதையே உழைக்கும்",
+    "tamilsurangam_story_id": 5,
+    "tamilsurangam_checking_story": "துணி துவைத்த சீடர்கள்",
+    "tamilsurangam_checking_story_id": 28,
+    "ratio": 0.9987170349251604
+  },
+  {
+    "file": "brahmartha_guru_stories.json",
+    "tamilsurangam_story": "தொப்பை வளர்ப்பது எப்படி?",
+    "tamilsurangam_story_id": 16,
+    "tamilsurangam_checking_story": "ஓலைச் சுவடி பத்திரிகை",
+    "tamilsurangam_checking_story_id": 23,
+    "ratio": 0.9417236662106703
+  },
+  {
+    "file": "brahmartha_guru_stories.json",
+    "tamilsurangam_story": "ஓலைச் சுவடி பத்திரிகை",
+    "tamilsurangam_story_id": 23,
+    "tamilsurangam_checking_story": "தொப்பை வளர்ப்பது எப்படி?",
+    "tamilsurangam_checking_story_id": 16,
+    "ratio": 0.9417236662106703
+  },
+  {
+    "file": "brahmartha_guru_stories.json",
+    "tamilsurangam_story": "துணி துவைத்த சீடர்கள்",
+    "tamilsurangam_story_id": 28,
+    "tamilsurangam_checking_story": "உதைக்கிற கழுதையே உழைக்கும்",
+    "tamilsurangam_checking_story_id": 5,
+    "ratio": 0.9987170349251604
+  },
+  {
+    "file": "brahmartha_guru_stories.json",
+    "tamilsurangam_story": "துணி துவைத்த சீடர்கள்",
+    "tamilsurangam_story_id": 28,
+    "tamilsurangam_checking_story": "புத்தியில்லாதவர்களின் வேலை",
+    "tamilsurangam_checking_story_id": 27,
+    "ratio": 0.5213203003258252
+  }
+]
